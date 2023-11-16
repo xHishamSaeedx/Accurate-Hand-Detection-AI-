@@ -1,0 +1,1 @@
+self.screenshot_taken = True
